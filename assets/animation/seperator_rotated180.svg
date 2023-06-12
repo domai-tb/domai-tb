@@ -1,0 +1,40 @@
+<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<style>
+svg {
+  width:100vw;
+  position:fixed;
+  overflow:invisible;
+}
+.wave {
+  animation: wave 3s linear;
+  animation-iteration-count:infinite;
+  stroke: #ffffff;
+  fill: rgba(255,255,255,0);
+  stroke-width: 0.01mm;
+}
+#wave2 {
+  animation-duration: 7s;
+  opacity:.6;
+}
+#wave3 {
+  animation-duration:5s;
+  animation-direction: reverse;
+  opacity: .5;
+}
+@keyframes wave {
+  to {transform: translateX(-100%);}
+}
+</style>
+
+ <defs>
+  <path d="m0,10c0,0 30,5 60,5c30,0 30,-5 60,-5c30,0 30,5 60,5c30,0 30,-5 60,-5l0,28l-240,0l0,-28z" id="wave" transform="translate(0, -12.5)"/>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_1" transform="rotate(180 108.03 -1)">
+   <use class="wave" fill="#000000" id="wave2" x="84.03" xlink:href="#wave" y="-12"/>
+   <use class="wave" fill="#000000" id="wave3" x="86.03" xlink:href="#wave" y="-13"/>
+  </g>
+ </g>
+</svg>
