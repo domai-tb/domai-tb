@@ -2,12 +2,14 @@
 <img src="./assets/animation/wave_top.svg" align="top">
 
 <p align="center">
-<a href="https://github.com/domai-tb"><img src="./assets/text/domai.svg" height=80px alt=":Domai" /></a>
+<a href="https://github.com/domai-tb"><img src="./assets/text/domai.svg" height=40px alt=":Domai" /></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/domai-tb"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=%F0%9F%97%A1+Penetration+Tester+by+Profession+;%F0%9F%9B%B8+Reasearcher+%26+Student+by+Curiosity;%F0%9F%95%8A+I+Use+Arch+Linux+btw+%CA%95%E1%B5%94%E1%B4%A5%E1%B5%94%CA%94;%F0%9F%AA%84+Full+Stack+Developer+by+Team;%F0%9F%96%A5+Running+a+Home+Lab+by+Experimenting" alt="Typing SVG" /></a>
+<a href="https://github.com/domai-tb"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=%F0%9F%97%A1+Penetration+Tester+by+Profession+;%F0%9F%9B%B8+Reasearcher+%26+Student+by+Curiosity;%F0%9F%95%8A+I+Use+Arch+Linux+btw+%CA%95%E1%B5%94%E1%B4%A5%E1%B5%94%CA%94;%F0%9F%AA%84+Full+Stack+Developer+by+Team;%F0%9F%96%A5+Running+a+Home+Lab+by+Experimenting" alt="Typing SVG" /></a>
 </p>
+
+<img src="./assets/metrics/lowlighter/header.svg" align="center">
 
 <img src="./assets/animation/seperator.svg" align="center">
 
@@ -19,7 +21,7 @@
 
 <details close> 
   <summary>&emsp;<a href="#space_invader-programming-and-markup-languages">
-    <img src="./assets/animation/skills.webp" width=30px style="vertical-align:middle;"><img src="./assets/text/skills_tools.svg" height=50px style="vertical-align:middle;"></a>
+    <img src="./assets/animation/skills.webp" width=15px style="vertical-align:middle;"><img src="./assets/text/skills_tools.svg" height=30px style="vertical-align:middle;"></a>
   </summary>
 
   ### :space_invader: **Programming and Markup Languages**
@@ -105,16 +107,19 @@
 <br>
 <img src="./assets/animation/seperator.svg" align="center">
 
-<details close> 
+<details> 
   <summary>&emsp;<a href="#">
-    <img src="./assets/animation/stats.webp" width=40px style="vertical-align:middle;">&emsp;<img src="./assets/text/stats_metrics.svg" height=50px style="vertical-align:middle;"></a>
+    <img src="./assets/animation/stats.webp" width=15px style="vertical-align:middle;">&emsp;<img src="./assets/text/stats_metrics.svg" height=30px style="vertical-align:middle;"></a>
   </summary>
 
   ###
 
-[![](./profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  <img src="./assets/metrics/lowlighter/statistics.svg"  align="center">
+  <div style="display:inline-block">
+    <img src="./assets/metrics/profile-summary-cards/github_dark/1-repos-per-language.svg"SS align="center">
+    <img src="./assets/metrics/profile-summary-cards/github_dark/2-most-commit-language.svg"  align="center">
+  </div>
+
 </details>
 
 <div style="text-align: center;"><img src="./assets/animation/wave_bottom.svg" align="bottom"></div>
@@ -129,9 +134,11 @@
 
 <img src="https://github.com/0xabdulkhalid.png?size=32" style="border-radius:50%;vertical-align:middle;">&emsp;[Abdul Khalid](https://github.com/0xabdulkhalid): Inspiration for the section .gif
 
-<img src="https://github.com/DenverCoder1.png?size=32" style="border-radius:50%;vertical-align:middle;">&emsp;[Jonah Lawrence](https://github.com/DenverCoder1): Creator of the readme typing svg and creat inspirational source
+<img src="https://github.com/DenverCoder1.png?size=32" style="border-radius:50%;vertical-align:middle;">&emsp;[Jonah Lawrence](https://github.com/DenverCoder1): Readme typing svg
   
 <img src="https://github.com/Ileriayo.png?size=32" style="border-radius:50%;vertical-align:middle;">&emsp;[Ileriayo Adebiyi](https://github.com/Ileriayo): Markdown bage collection
+
+<img src="https://github.com/lowlighter.png?size=32" style="border-radius:50%;vertical-align:middle;">&emsp;[Simon Lecoq](https://github.com/lowlighter): Awesome metrics generator
 
 </details>
 
