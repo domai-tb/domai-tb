@@ -26,6 +26,7 @@ jobs:
 
       - run: |
           set +e
+          git checkout profile
           git config user.name profile-summary-cards[bot]
           git config user.email profile-summary-cards[bot]@users.noreply.github.com
           sudo mkdir -p ./assets/metrics/profile-summary-cards/
