@@ -30,7 +30,7 @@ jobs:
           config_display: large
           config_timezone: Europe/Berlin
           plugin_code: yes
-          plugin_code_days: 3
+          plugin_code_days: 365
           plugin_code_languages: python, dart, c, rust, vue
           plugin_code_lines: 12
           plugin_code_load: 400
