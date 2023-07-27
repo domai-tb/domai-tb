@@ -55,5 +55,5 @@ jobs:
           sudo mkdir -p ./assets/metrics/lowlighter
           sudo mv /metrics_renders/github-metrics.svg ./assets/metrics/lowlighter/header.svg
           git add --all
-          git commit -m "Genrate Profile Metrics"
+          git commit -m "Genrate Profile Header"
           git push
