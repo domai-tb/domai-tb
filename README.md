@@ -59,7 +59,7 @@
     <img src="./assets/animation/stats.webp" width=30px style="vertical-align:middle;">&emsp;<img src="./assets/text/stats_metrics.svg" height=40px style="vertical-align:middle;"></a>
   </summary>
 
-<div style="width:95%;margin:auto;padding:10px">
+<div style="width:95%;margin:auto;padding:20px">
 
   <img src="./assets/metrics/lowlighter/statistics.svg" align="center">
 
