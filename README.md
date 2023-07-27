@@ -63,11 +63,9 @@
 
   <img src="./assets/metrics/lowlighter/statistics.svg" align="center">
 
-  <div style="display:flex;">
-    <img src="./assets/metrics/profile-summary-cards/github_dark/1-repos-per-language.svg" style="flex:1 1 0;min-width:0;padding:5px">
-    <img src="./assets/animation/about_me.gif" style="padding:3em;max-height:40px;margin:auto">
-    <img src="./assets/metrics/profile-summary-cards/github_dark/2-most-commit-language.svg" style="flex:1 1 0;min-width:0;padding:5px;">
-  </div>
+  | | | | 
+  |:-------------------------:|:-------------------------:|:-------------------------:|
+  |<img src="./assets/metrics/profile-summary-cards/github_dark/1-repos-per-language.svg" style="padding:5px">|<img src="./assets/animation/about_me.gif" style="padding:3em;max-height:40px;margin:auto">|<img src="./assets/metrics/profile-summary-cards/github_dark/2-most-commit-language.svg" style="padding:5px;">|
 
 </div>
 </details>
