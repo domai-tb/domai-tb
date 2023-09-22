@@ -15,7 +15,7 @@
 
 </div>
 
-<details open> 
+<details close> 
   <summary>&emsp;<a href="#space_invader-programming-and-markup-languages">
     <img src="./assets/animation/skills.webp" width=20px style="vertical-align:middle;"><img src="./assets/text/skills_tools.svg" height=40px style="vertical-align:middle;"></a>
   </summary>
