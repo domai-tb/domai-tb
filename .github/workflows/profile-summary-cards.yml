@@ -14,10 +14,25 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.METRICS_ACCESS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: "main"
           UTC_OFFSET: 2
+          AUTO_PUSH: false
+
+      - run: |
+          set +e
+          git fetch
+          git checkout profile
+          git pull
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+          sudo mkdir -p ./assets/metrics/profile-summary-cards/
+          sudo mv ./profile-summary-card-output/* ./assets/metrics/profile-summary-cards/
+          git add --all
+          git commit -m "Genrate Profile Summary Cards"
+          git push
