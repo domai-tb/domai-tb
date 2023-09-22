@@ -31,6 +31,7 @@ jobs:
           git pull
           git config user.name github-actions[bot]
           git config user.email github-actions[bot]@users.noreply.github.com
+          sudo rm -rf ./assets/metrics/profile-summary-cards 2> /dev/null
           sudo mkdir -p ./assets/metrics/profile-summary-cards/
           sudo mv ./profile-summary-card-output/* ./assets/metrics/profile-summary-cards/
           git add --all
