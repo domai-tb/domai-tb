@@ -26,6 +26,17 @@ jobs:
           user: domai-tb
           template: classic
           base: ""
+          extras_css: |
+            :root {
+              --color-calendar-graph-day-L1-bg: rgba(61, 133, 143, 0.2);
+              --color-calendar-graph-day-L2-bg: rgba(61, 133, 143, 0.5);
+              --color-calendar-graph-day-L3-bg: rgba(61, 133, 143, 0.8);
+              --color-calendar-graph-day-L4-bg: rgb(61, 133, 143);
+            }
+
+            h1, h2, h3, .labels {
+              color: rgba(255, 255, 255, 0.8);
+            }
           config_display: large
           config_timezone: Europe/Berlin
           plugin_habits: yes
@@ -61,9 +72,11 @@ jobs:
     
       - run: |
           set +e
+          git fetch
           git checkout profile
-          git config user.name lowlighter-metrics[bot]
-          git config user.email lowlighter-metrics[bot]@users.noreply.github.com
+          git pull
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
           sudo mkdir -p ./assets/metrics/lowlighter
           sudo mv /metrics_renders/github-metrics.svg ./assets/metrics/lowlighter/statistics.svg
           git add --all

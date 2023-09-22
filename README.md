@@ -78,6 +78,11 @@
 
 <div style="text-align: center;"><img src="./assets/animation/wave_bottom.svg" align="bottom"></div>
 
+---
+[![Header Action](https://github.com/domai-tb/domai-tb/actions/workflows/lowlighter-metrics-header.yml/badge.svg)](https://github.com/domai-tb/domai-tb/actions/workflows/lowlighter-metrics-header.yml)
+[![Statistics Action](https://github.com/domai-tb/domai-tb/actions/workflows/lowlighter-metrics-statistics.yml/badge.svg)](https://github.com/domai-tb/domai-tb/actions/workflows/lowlighter-metrics-statistics.yml)
+--
+
 <div style="display:flex;justify-content: space-between;">
 <details align="left" close>
 <summary>:white_heart: <b>Thank You!</b></summary>

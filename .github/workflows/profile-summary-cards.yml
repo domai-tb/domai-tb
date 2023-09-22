@@ -26,9 +26,11 @@ jobs:
 
       - run: |
           set +e
+          git fetch
           git checkout profile
-          git config user.name profile-summary-cards[bot]
-          git config user.email profile-summary-cards[bot]@users.noreply.github.com
+          git pull
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
           sudo mkdir -p ./assets/metrics/profile-summary-cards/
           sudo mv ./profile-summary-card-output/* ./assets/metrics/profile-summary-cards/
           git add --all
