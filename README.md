@@ -82,6 +82,7 @@
 [![](https://github.com/domai-tb/domai-tb/actions/workflows/profile-summary-cards.yml/badge.svg)](https://github.com/domai-tb/domai-tb/actions/workflows/profile-summary-cards.yml)
 [![](https://github.com/domai-tb/domai-tb/actions/workflows/lowlighter-metrics-header.yml/badge.svg)](https://github.com/domai-tb/domai-tb/actions/workflows/lowlighter-metrics-header.yml)
 [![](https://github.com/domai-tb/domai-tb/actions/workflows/lowlighter-metrics-statistics.yml/badge.svg)](https://github.com/domai-tb/domai-tb/actions/workflows/lowlighter-metrics-statistics.yml)
+![](https://komarev.com/ghpvc/?username=domai-tb&color=blue)
 --
 
 <div style="display:flex;justify-content: space-between;">
