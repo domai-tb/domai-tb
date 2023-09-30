@@ -30,12 +30,12 @@
   | | | | 
   |:-------------------------:|:-------------------------:|:-------------------------:|
   | **Frontend** | **Backend** | **Embedded** |
-  |<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&style=flat-square&logoColor=white"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white"> <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&style=flat-square&logoColor=white"> <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vue.js&style=flat-square&logoColor=white"> <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white">|<img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&&style=flat-square&logoColor=white"><img alt="Rust" src="https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&style=flat-square&logoColor=white"> <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"> <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&&style=flat-square&logoColor=white">|<img alt="MIPS Assembly" src="https://img.shields.io/badge/Assembly-525252.svg?logo=ARM&style=flat-square&logoColor=white"> <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&&style=flat-square&logoColor=white">|
+  |<img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white"> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white"> <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vue.js&style=flat-square&logoColor=white"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&style=flat-square&logoColor=white"> <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&style=flat-square&logoColor=white">|<img alt="Rust" src="https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&style=flat-square&logoColor=white"> <img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&&style=flat-square&logoColor=white">|<img alt="MIPS Assembly" src="https://img.shields.io/badge/Assembly-525252.svg?logo=ARM&style=flat-square&logoColor=white"> <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&&style=flat-square&logoColor=white">|
 
   | | | |
   |:-------------------------:|:-------------------------:|:-------------------------:|
   | **Machine Learning and Data Science** | **Just Scripting** | **Wrote Hello World** |
-  |<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&&style=flat-square&logoColor=white"> <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white"> <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&&style=flat-square&logoColor=white"> <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white">|<img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&&style=flat-square&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&&style=flat-square&logoColor=white">|<img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&&style=flat-square&logoColor=white"> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&&style=flat-square&logoColor=white"> <img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white"> <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white">
+  |<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&&style=flat-square&logoColor=white"> <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white"> <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&&style=flat-square&logoColor=white"> <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white">|<img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&&style=flat-square&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&&style=flat-square&logoColor=white">|<img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&&style=flat-square&logoColor=white"> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&&style=flat-square&logoColor=white"> <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white">
 
   ---
   ### :wrench: **Software and Tools**
@@ -60,18 +60,21 @@
 <br>
 <img src="./assets/animation/seperator.svg" align="center">
 
-<details> 
+<details open> 
   <summary>&emsp;<a href="#">
     <img src="./assets/animation/stats.webp" width=30px style="vertical-align:middle;">&emsp;<img src="./assets/text/stats_metrics.svg" height=40px style="vertical-align:middle;"></a>
   </summary>
 
 <div style="width:95%;margin:auto;padding:20px">
 
+  <img src="./assets/metrics/codestats/codestats_history_domai-tb.svg" align="center">
   <img src="./assets/metrics/lowlighter/statistics.svg" align="center">
 
-  | | | | 
-  |:-------------------------:|:-------------------------:|:-------------------------:|
-  |<img src="./assets/metrics/profile-summary-cards/github_dark/1-repos-per-language.svg">|<img src="./assets/animation/about_me.gif" style="height:40px">|<img src="./assets/metrics/profile-summary-cards/github_dark/2-most-commit-language.svg">|
+
+  | | |
+  :---:|:---:
+  ![](./assets/metrics/codestats/codestats_toplangs_domai-tb.svg)|<img src="./assets/metrics/profile-summary-cards/dark/1-repos-per-language.svg" style="height:150px"><br><img src="./assets/metrics/profile-summary-cards/dark/2-most-commit-language.svg" style="height:150px">
+
 
 </div>
 </details>
@@ -82,6 +85,8 @@
 [![](https://github.com/domai-tb/domai-tb/actions/workflows/profile-summary-cards.yml/badge.svg)](https://github.com/domai-tb/domai-tb/actions/workflows/profile-summary-cards.yml)
 [![](https://github.com/domai-tb/domai-tb/actions/workflows/lowlighter-metrics-header.yml/badge.svg)](https://github.com/domai-tb/domai-tb/actions/workflows/lowlighter-metrics-header.yml)
 [![](https://github.com/domai-tb/domai-tb/actions/workflows/lowlighter-metrics-statistics.yml/badge.svg)](https://github.com/domai-tb/domai-tb/actions/workflows/lowlighter-metrics-statistics.yml)
+[![](https://github.com/domai-tb/domai-tb/actions/workflows/codestats-cards.yml/badge.svg)](https://github.com/domai-tb/domai-tb/actions/workflows/codestats-cards.yml)
+![](https://komarev.com/ghpvc/?username=domai-tb&color=blue)
 --
 
 <div style="display:flex;justify-content: space-between;">
@@ -97,6 +102,14 @@
 <img src="https://github.com/DenverCoder1.png?size=32" style="border-radius:50%;vertical-align:middle;">&emsp;[Jonah Lawrence](https://github.com/DenverCoder1): Readme typing svg
   
 <img src="https://github.com/Ileriayo.png?size=32" style="border-radius:50%;vertical-align:middle;">&emsp;[Ileriayo Adebiyi](https://github.com/Ileriayo): Markdown bage collection
+
+<img src="https://github.com/vn7n24fzkq.png?size=32" style="border-radius:50%;vertical-align:middle;">&emsp;[Casper](https://github.com/vn7n24fzkq): Author of [Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<img src="https://github.com/lowlighter.png?size=32" style="border-radius:50%;vertical-align:middle;">&emsp;[Simon Lecoq](https://github.com/lowlighter): Author of [GitHub Account Infographics](https://github.com/lowlighter/metrics)
+
+<img src="https://github.com/Nicd.png?size=32" style="border-radius:50%;vertical-align:middle;">&emsp;[Mikko Ahlroth](https://gitlab.com/Nicd): Creator of [Code::Stats](https://codestats.net/)
+
+<img src="https://github.com/antonkomarev.png?size=32" style="border-radius:50%;vertical-align:middle;">&emsp;[Simon Lecoq](https://github.com/antonkomarev): Profile
 
 </div>
 </details>

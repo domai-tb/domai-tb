@@ -1,0 +1,48 @@
+name: Code::Stats
+
+on:
+  schedule: # execute every 24 hours
+    - cron: "* */24 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate_codestats:
+    runs-on: ubuntu-latest
+    name: Generation
+    permissions:
+      contents: write
+
+    steps:
+        - name: Checkout repository
+          uses: actions/checkout@v3
+          with:
+            fetch-depth: 0
+
+        - uses: domai-tb/codestats-readme@v1.0
+          with:
+            username: domai-tb
+            history_card_days_count: 15
+            history_card_horizontal_layout: true
+            toplangs_card_language_count: 20
+            toplangs_card_compact_layout: true
+            common_hide_languages: 'Plain text,Terminal (Zsh)'
+            profile_card_title: 'Code::Stats of :Domai'
+            toplangs_card_title: 'Most Coded Languages'
+            history_card_title: 'Coding History of the last two weeks'
+            common_hide_border: true
+            common_title_color: '3d858f'
+            common_text_color: 'ffffffcc'
+
+        - run: |
+            set +e
+            git fetch
+            git checkout profile
+            git pull
+            git config user.name github-actions[bot]
+            git config user.email github-actions[bot]@users.noreply.github.com
+            sudo rm -rf ./assets/metrics/codestats 2> /dev/null
+            sudo mkdir -p ./assets/metrics/codestats
+            sudo mv *.svg ./assets/metrics/codestats
+            git add *.svg
+            git commit -m "Genrate Code::Stats"
+            git push
