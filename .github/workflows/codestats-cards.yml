@@ -18,7 +18,7 @@ jobs:
           with:
             fetch-depth: 0
 
-        - uses: domai-tb/codestats-readme
+        - uses: domai-tb/codestats-readme@v1.0
           with:
             username: domai-tb
             history_card_days_count: 15
