@@ -1,4 +1,4 @@
-name: Lowlighter-Metrics-Statistics
+name: GitHub Statistics
 
 on:
   schedule: # execute every 24 hours
