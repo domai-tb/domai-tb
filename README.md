@@ -60,7 +60,7 @@
 <br>
 <img src="./assets/animation/seperator.svg" align="center">
 
-<details open> 
+<details> 
   <summary>&emsp;<a href="#">
     <img src="./assets/animation/stats.webp" width=30px style="vertical-align:middle;">&emsp;<img src="./assets/text/stats_metrics.svg" height=40px style="vertical-align:middle;"></a>
   </summary>
