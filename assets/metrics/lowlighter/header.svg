@@ -44,8 +44,8 @@ h1, h2, h3, .labels {
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -232,7 +232,7 @@ h1, h2, h3, .labels {
                                     </svg>
                                     <div class="name">
                                         <span>SteveMacenski/slam_toolbox</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS</div>
@@ -285,7 +285,7 @@ h1, h2, h3, .labels {
                                     </svg>
                                     <div class="name">
                                         <span>leggedrobotics/open3d_slam</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pointcloud-based graph SLAM written in C++ using open3D library.</div>
@@ -338,7 +338,7 @@ h1, h2, h3, .labels {
                                     </svg>
                                     <div class="name">
                                         <span>OWASP/www-project-top-10-insider-threats</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OWASP Foundation Web Respository</div>
@@ -631,7 +631,7 @@ h1, h2, h3, .labels {
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.71m out of 64m repositories</span>
+                                    <span class="gh">ranked 1.71m out of 57.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 11 stars</div>
                             </div>
