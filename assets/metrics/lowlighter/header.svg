@@ -637,7 +637,7 @@ h1, h2, h3, .labels {
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.73m out of 65.9m repositories</span>
+                                    <span class="gh">ranked 1.73m out of 65.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 11 stars</div>
                             </div>
@@ -723,7 +723,7 @@ h1, h2, h3, .labels {
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">d4144add</span>
-                            <span class="code">lib/utils/pages/mensa_utils.dart</span>
+                            <span class="code">lib/utils/constants.dart</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -734,7 +734,7 @@ h1, h2, h3, .labels {
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -38,7 +38,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">case 1:<br /></span><span class="token prefix unchanged">·</span><span class="token line">  return 'Mensa_RUB Küche210.xml';<br /></span><span class="token prefix unchanged">·</span><span class="token line">case 2:<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  return 'Cafeteria_Rote Bete_Cafebar220.xml'; //? Server doesn't know this file for some reason<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  return 'Bistro_Cafebar220.xml';<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">case 3:<br /></span><span class="token prefix unchanged">·</span><span class="token line">  return 'QWest230.xml';<br /></span><span class="token prefix unchanged">·</span><span class="token line">case 4:</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -13,7 +13,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">const String appwrite = 'https://api-app.asta-bochum.de/v1';<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">const String mensaData = 'https://api-app.asta-bochum.de/get_meal';<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">const String mensaDataXML = 'https://app.asta-bochum.de/xml';<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">const String mensaDataXML = 'https://asta-bochum.de/akafoe';<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">const String osrmBackend = 'https://osrm.app.asta-bochum.de';<br /></span><span class="token prefix unchanged">·</span></span></code>
                         </div>
                     </section>
                 </div>
