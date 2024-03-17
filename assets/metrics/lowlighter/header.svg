@@ -232,7 +232,7 @@ h1, h2, h3, .labels {
                                     </svg>
                                     <div class="name">
                                         <span>mautrix/telegram</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Matrix-Telegram hybrid puppeting/relaybot bridge</div>
@@ -285,7 +285,7 @@ h1, h2, h3, .labels {
                                     </svg>
                                     <div class="name">
                                         <span>mautrix/whatsapp</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Matrix-WhatsApp puppeting bridge</div>
@@ -338,7 +338,7 @@ h1, h2, h3, .labels {
                                     </svg>
                                     <div class="name">
                                         <span>mautrix/signal</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Matrix-Signal puppeting bridge</div>
@@ -391,7 +391,7 @@ h1, h2, h3, .labels {
                                     </svg>
                                     <div class="name">
                                         <span>mautrix/meta</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Matrix-Facebook Messenger and Instagram DM puppeting bridge.</div>
@@ -637,7 +637,7 @@ h1, h2, h3, .labels {
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.05m out of 93.7m repositories</span>
+                                    <span class="gh">ranked 2.05m out of 86.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 9 stars</div>
                             </div>
