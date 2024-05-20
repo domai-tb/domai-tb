@@ -25,18 +25,18 @@ h1, h2, h3, .labels {
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 74.9mb of code in 5983 edited files across 153 commits</small>
+                <small>estimation from 74.5mb of code in 5910 edited files across 142 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="737.0244205825272" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="737.0244205825272" y="0" width="94.2177395787281" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="831.2421601612552" y="0" width="50.959064239844736" height="8" fill="#ef7a08"/>
-                    <rect mask="url(#languages-bar)" x="882.2012244010999" y="0" width="35.99259664451155" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="918.1938210456116" y="0" width="1.5786831318891297" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="919.7725041775007" y="0" width="0.22749582249930686" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="730.0677478318361" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="730.0677478318361" y="0" width="97.79986777116633" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="827.8676156030024" y="0" width="52.89651149224128" height="8" fill="#ef7a08"/>
+                    <rect mask="url(#languages-bar)" x="880.7641270952437" y="0" width="37.36102360673589" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="918.1251507019796" y="0" width="1.6387041574300938" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="919.7638548594097" y="0" width="0.23614514059036282" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -48,8 +48,8 @@ h1, h2, h3, .labels {
                                 C#
                             </div>
                             <small>
-                                <div>3.68k lines</div>
-                                <div>80.11%</div>
+                                <div>3.50k lines</div>
+                                <div>79.36%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -61,7 +61,7 @@ h1, h2, h3, .labels {
                             </div>
                             <small>
                                 <div>6 lines</div>
-                                <div>0.17%</div>
+                                <div>0.18%</div>
                             </small>
                         </div>
                     </section>
@@ -75,7 +75,7 @@ h1, h2, h3, .labels {
                             </div>
                             <small>
                                 <div>340 lines</div>
-                                <div>10.24%</div>
+                                <div>10.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -87,7 +87,7 @@ h1, h2, h3, .labels {
                             </div>
                             <small>
                                 <div>2 lines</div>
-                                <div>0.02%</div>
+                                <div>0.03%</div>
                             </small>
                         </div>
                     </section>
@@ -101,7 +101,7 @@ h1, h2, h3, .labels {
                             </div>
                             <small>
                                 <div>218 lines</div>
-                                <div>5.54%</div>
+                                <div>5.75%</div>
                             </small>
                         </div>
                     </section>
@@ -115,7 +115,7 @@ h1, h2, h3, .labels {
                             </div>
                             <small>
                                 <div>174 lines</div>
-                                <div>3.91%</div>
+                                <div>4.06%</div>
                             </small>
                         </div>
                     </section>
@@ -1288,6 +1288,13 @@ h1, h2, h3, .labels {
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
+                        <g transform="translate(44.199999999999996, 26)">
+                            <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
