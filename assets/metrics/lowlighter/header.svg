@@ -47,8 +47,8 @@ h1, h2, h3, .labels {
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -232,7 +232,7 @@ h1, h2, h3, .labels {
                                     </svg>
                                     <div class="name">
                                         <span>brave/brave-browser</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Brave browser for Android, iOS, Linux, macOS, Windows.</div>
@@ -285,7 +285,7 @@ h1, h2, h3, .labels {
                                     </svg>
                                     <div class="name">
                                         <span>google/fuzzing</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tutorials, examples, discussions, research proposals, and other resources related to fuzzing</div>
@@ -338,7 +338,7 @@ h1, h2, h3, .labels {
                                     </svg>
                                     <div class="name">
                                         <span>googleprojectzero/fuzzilli</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A JavaScript Engine Fuzzer</div>
@@ -391,7 +391,7 @@ h1, h2, h3, .labels {
                                     </svg>
                                     <div class="name">
                                         <span>caido/caido</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚀 Caido releases, wiki and roadmap</div>
@@ -541,7 +541,7 @@ h1, h2, h3, .labels {
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.73m out of 144m users</span>
+                                    <span class="gh">ranked 2.73m out of 145m users</span>
                                 </div>
                                 <div class="text">Published 22 public repositories</div>
                             </div>
@@ -593,7 +593,7 @@ h1, h2, h3, .labels {
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.29m out of 144m users</span>
+                                    <span class="gh">ranked 1.29m out of 145m users</span>
                                 </div>
                                 <div class="text">Followed by 12 users</div>
                             </div>
@@ -717,7 +717,7 @@ h1, h2, h3, .labels {
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">08c963a9</span>
-                            <span class="code">gui/lib/setup/setup_utils.dart</span>
+                            <span class="code">gui/lib/core/responsiv.dart</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--2</span>
@@ -728,7 +728,7 @@ h1, h2, h3, .labels {
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -47,8 +47,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  boxes.add(<br /></span><span class="token prefix unchanged">·</span><span class="token line">    BallotBoxSetupModel(<br /></span><span class="token prefix unchanged">·</span><span class="token line">      name: formValue,<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">      ipAddr:<br /></span><span class="token prefix deleted">-</span><span class="token line">          formData['${formKeyParts[0]}_${formKeyParts[1]}$FORMKEY_ADD_IP'],<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">      ipAddr: formData['${formKeyParts[0]}_${formKeyParts[1]}$FORMKEY_ADD_IP'],<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    ),<br /></span><span class="token prefix unchanged">·</span><span class="token line">  );<br /></span><span class="token prefix unchanged">·</span><span class="token line">}</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -7,8 +7,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">/// Returns true if screen is in tablet mode<br /></span><span class="token prefix unchanged">·</span><span class="token line">bool isTablet(BuildContext context) {<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">return MediaQuery.of(context).size.width &lt; 1100 &amp;&amp;<br /></span><span class="token prefix deleted">-</span><span class="token line">    MediaQuery.of(context).size.width &gt;= 850;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">return MediaQuery.of(context).size.width &lt; 1100 &amp;&amp; MediaQuery.of(context).size.width &gt;= 850;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">}<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">/// Returns true if screen is in desktop mode</span></span></code>
                         </div>
                     </section>
                 </div>
