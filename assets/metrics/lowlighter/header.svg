@@ -42,8 +42,8 @@ h1, h2, h3, .labels {
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -232,7 +232,7 @@ h1, h2, h3, .labels {
                                     </svg>
                                     <div class="name">
                                         <span>brave/brave-browser</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Brave browser for Android, iOS, Linux, macOS, Windows.</div>
@@ -253,7 +253,7 @@ h1, h2, h3, .labels {
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        17.5k
+                                        17.6k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -285,7 +285,7 @@ h1, h2, h3, .labels {
                                     </svg>
                                     <div class="name">
                                         <span>google/fuzzing</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tutorials, examples, discussions, research proposals, and other resources related to fuzzing</div>
@@ -338,7 +338,7 @@ h1, h2, h3, .labels {
                                     </svg>
                                     <div class="name">
                                         <span>googleprojectzero/fuzzilli</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A JavaScript Engine Fuzzer</div>
@@ -372,7 +372,7 @@ h1, h2, h3, .labels {
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        202
+                                        203
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -593,7 +593,7 @@ h1, h2, h3, .labels {
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.29m out of 145m users</span>
+                                    <span class="gh">ranked 1.30m out of 145m users</span>
                                 </div>
                                 <div class="text">Followed by 12 users</div>
                             </div>
@@ -717,7 +717,7 @@ h1, h2, h3, .labels {
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">08c963a9</span>
-                            <span class="code">gui/lib/setup/setup_utils.dart</span>
+                            <span class="code">gui/lib/main.dart</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--2</span>
@@ -728,7 +728,7 @@ h1, h2, h3, .labels {
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -47,8 +47,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  boxes.add(<br /></span><span class="token prefix unchanged">·</span><span class="token line">    BallotBoxSetupModel(<br /></span><span class="token prefix unchanged">·</span><span class="token line">      name: formValue,<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">      ipAddr:<br /></span><span class="token prefix deleted">-</span><span class="token line">          formData['${formKeyParts[0]}_${formKeyParts[1]}$FORMKEY_ADD_IP'],<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">      ipAddr: formData['${formKeyParts[0]}_${formKeyParts[1]}$FORMKEY_ADD_IP'],<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    ),<br /></span><span class="token prefix unchanged">·</span><span class="token line">  );<br /></span><span class="token prefix unchanged">·</span><span class="token line">}</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -41,8 +41,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  Locale('de'),<br /></span><span class="token prefix unchanged">·</span><span class="token line">],<br /></span><span class="token prefix unchanged">·</span><span class="token line">locale: settingsController.language,<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">onGenerateTitle: (BuildContext context) =&gt;<br /></span><span class="token prefix deleted">-</span><span class="token line">    AppLocalizations.of(context)!.appTitle,<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">onGenerateTitle: (BuildContext context) =&gt; AppLocalizations.of(context)!.appTitle,<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">theme: lightTheme,<br /></span><span class="token prefix unchanged">·</span><span class="token line">darkTheme: darkTheme,<br /></span><span class="token prefix unchanged">·</span><span class="token line">themeMode: settingsController.themeMode,</span></span></code>
                         </div>
                     </section>
                 </div>
