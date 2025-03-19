@@ -232,7 +232,7 @@ h1, h2, h3, .labels {
                                     </svg>
                                     <div class="name">
                                         <span>saten-private/BabyCommandAGI</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BabyCommandAGI is designed to test what happens when you combine CLI and LLM, which are older computer interfaces than GUI. Based on BabyAGI, and using Latest LLM API. Imagine LLM and CLI having a conversation. It's exciting to think about what could happen. I hope you will all try it out.</div>
@@ -285,7 +285,7 @@ h1, h2, h3, .labels {
                                     </svg>
                                     <div class="name">
                                         <span>trypromptly/LLMStack</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">No-code multi-agent framework to build LLM Agents, workflows and applications with your data</div>
@@ -338,7 +338,7 @@ h1, h2, h3, .labels {
                                     </svg>
                                     <div class="name">
                                         <span>e2b-dev/awesome-ai-agents</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A list of AI autonomous agents</div>
@@ -385,7 +385,7 @@ h1, h2, h3, .labels {
                                     </svg>
                                     <div class="name">
                                         <span>SWE-agent/SWE-agent</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]</div>
@@ -700,7 +700,7 @@ h1, h2, h3, .labels {
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 24 Feb 2025, 07:48:23
+                            On 17 Feb 2025, 13:59:25
                         </div>
                     </section>
                 </div>
