@@ -232,7 +232,7 @@ h1, h2, h3, .labels {
                                     </svg>
                                     <div class="name">
                                         <span>jsuto/piler</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Email archiving application</div>
@@ -285,7 +285,7 @@ h1, h2, h3, .labels {
                                     </svg>
                                     <div class="name">
                                         <span>saten-private/BabyCommandAGI</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BabyCommandAGI is designed to test what happens when you combine CLI and LLM, which are older computer interfaces than GUI. Based on BabyAGI, and using Latest LLM API. Imagine LLM and CLI having a conversation. It's exciting to think about what could happen. I hope you will all try it out.</div>
@@ -338,7 +338,7 @@ h1, h2, h3, .labels {
                                     </svg>
                                     <div class="name">
                                         <span>trypromptly/LLMStack</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">No-code multi-agent framework to build LLM Agents, workflows and applications with your data</div>
@@ -391,7 +391,7 @@ h1, h2, h3, .labels {
                                     </svg>
                                     <div class="name">
                                         <span>e2b-dev/awesome-ai-agents</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A list of AI autonomous agents</div>
@@ -419,7 +419,7 @@ h1, h2, h3, .labels {
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        36
+                                        37
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -593,7 +593,7 @@ h1, h2, h3, .labels {
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 896k out of 160m users</span>
+                                    <span class="gh">ranked 897k out of 160m users</span>
                                 </div>
                                 <div class="text">Followed by 19 users</div>
                             </div>
@@ -631,7 +631,7 @@ h1, h2, h3, .labels {
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 926k out of 244m repositories</span>
+                                    <span class="gh">ranked 926k out of 245m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 33 stars</div>
                             </div>
