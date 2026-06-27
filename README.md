@@ -6,6 +6,14 @@
 </p>
 
 <p align="center">
+<a href="https://linkedin.com/in/domai-tb"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=flat-square"/></a>
+<a href="https://huggingface.co/domai-tb"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=flat-square"/></a>
+<a href="https://github.com/domai-tb"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=flat-square"/></a>
+<a href="mailto://me@domai-tb.com"><img src="https://img.shields.io/badge/E--Mail-D14836?logo=gmail&logoColor=white&style=flat-square"/></a>
+<a href="@domai:domai-tb.com"><img src="https://img.shields.io/badge/Matrix-000?logo=matrix&logoColor=fff&style=flat-square"/></a>
+</p>
+
+<p align="center">
 <a href="https://github.com/domai-tb"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=%F0%9F%97%A1+Penetration+Tester+by+Profession+;%F0%9F%9B%B8+Reasearcher+%26+Student+by+Curiosity;%F0%9F%95%8A+I+Use+Arch+Linux+btw+%CA%95%E1%B5%94%E1%B4%A5%E1%B5%94%CA%94;%F0%9F%AA%84+Full+Stack+Developer+by+Team;%F0%9F%96%A5+Running+a+Home+Lab+by+Experimenting" alt="Typing SVG" /></a>
 </p>
 
@@ -25,12 +33,25 @@
   <center>
 
   ---
+  ### :wrench: **Software and Tools**
+
+  | | | |
+  |:-------------------------:|:-------------------------:|:-------------------------:|
+  | **Coding & Development** | **Hosting & Administration** | **Privacy & Security** |
+  |<img alt="Visual Studio Code" src="https://img.shields.io/badge/Code_OSS-0078d7.svg?logo=visual-studio-code&&style=flat-square&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&&style=flat-square&logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"> <img alt="Podman" src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman">  <img alt="AppWrite" src="https://img.shields.io/badge/-AppWrite-ff0000?logo=appwrite&&style=flat-square&logoColor=white"> <img alt="Hoppscotch" src="https://img.shields.io/badge/Hoppscotch-31C48D?logo=hoppscotch&&style=flat-square&logoColor=white">|<img alt="Ansible" src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white"> <img alt="Travis CI" src="https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=flat-square&logo=travis&logoColor=white"> <img alt="Portainer" src="https://img.shields.io/badge/Portainer-13BEF9.svg?style=flat-square&logo=portainer&logoColor=white"> <img alt="Wireguard" src="https://img.shields.io/badge/Wireguard-%2388171A.svg?style=flat-square&logo=wireguard&logoColor=white"> <img alt="NginX" src="https://img.shields.io/badge/NginX-%23009639?style=flat-square&logo=nginx&logoColor=white">|<img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&&style=flat-square&logoColor=white"><img alt="Portmaster" src="https://img.shields.io/badge/Portmaster-000000?logo=adguard&&style=flat-square&logoColor=white"> <img alt="Bitwarden" src="https://img.shields.io/badge/Bitwarden-175DDC?logo=bitwarden&&style=flat-square&logoColor=white"> <img alt="Nextcloud" src="https://img.shields.io/badge/NextCloud-0B94DE?style=flat-square&logo=nextcloud&logoColor=white"> <img alt="Tor" src="https://img.shields.io/badge/Tor-7D4698?style=flat-square&logo=Tor-Browser&logoColor=white"> <img alt="PiHole" src="https://img.shields.io/badge/pihole-%2396060C.svg?style=fflat-square&logo=pi-hole&logoColor=white">
+
+  | | | |
+  |:-------------------------:|:-------------------------:|:-------------------------:|
+  | **Coding Agents** | **Self-Host AI** | **Favorit Models** |
+  | <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=OpenCode&logoColor=white"> <img alt="Codex" src="https://custom-icon-badges.demolab.com/badge/Codex-74aa9c?logo=openai&logoColor=white"> | <img alt="Ollama" src="https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000"> <img alt="vLLM" src="https://img.shields.io/badge/vLLM-2596be?logo=vLLM&logoColor=white"> | <img alt="Google Gemma" src="https://custom-icon-badges.demolab.com/badge/Gemma-886FBF?logo=googlegemini&logoColor=fff"> <img alt="Qwen" src="https://custom-icon-badges.demolab.com/badge/Qwen-605CEC?logo=qwen&logoColor=fff">
+
+  ---
   ### :space_invader: **Programming Languages, Frameworks and Libraries**
 
   | | | | 
   |:-------------------------:|:-------------------------:|:-------------------------:|
   | **Frontend** | **Backend** | **Embedded** |
-  |<img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white"> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white"> <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vue.js&style=flat-square&logoColor=white"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&style=flat-square&logoColor=white"> <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&style=flat-square&logoColor=white">|<img alt="Rust" src="https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&style=flat-square&logoColor=white"> <img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&&style=flat-square&logoColor=white">|<img alt="MIPS Assembly" src="https://img.shields.io/badge/Assembly-525252.svg?logo=ARM&style=flat-square&logoColor=white"> <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&&style=flat-square&logoColor=white">|
+  |<img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white"> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white"> |<img alt="Rust" src="https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&style=flat-square&logoColor=white"> <img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&&style=flat-square&logoColor=white">|<img alt="MIPS Assembly" src="https://img.shields.io/badge/Assembly-525252.svg?logo=ARM&style=flat-square&logoColor=white"> <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&&style=flat-square&logoColor=white">|
 
   | | | |
   |:-------------------------:|:-------------------------:|:-------------------------:|
@@ -38,20 +59,12 @@
   |<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&&style=flat-square&logoColor=white"> <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white"> <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&&style=flat-square&logoColor=white"> <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white">|<img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&&style=flat-square&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&&style=flat-square&logoColor=white">|<img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&&style=flat-square&logoColor=white"> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&&style=flat-square&logoColor=white"> <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white">
 
   ---
-  ### :wrench: **Software and Tools**
-
-  | | | |
-  |:-------------------------:|:-------------------------:|:-------------------------:|
-  | **Coding & Development** | **Hosting & Administration** | **Privacy & Security** |
-  |<img alt="Visual Studio Code" src="https://img.shields.io/badge/Code_OSS-0078d7.svg?logo=visual-studio-code&&style=flat-square&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&&style=flat-square&logoColor=white"> <img alt="GitTea" src="https://img.shields.io/badge/Gitea-34495E?style=flat-square&logo=gitea&logoColor=5D9425)"> <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"> <img alt="AppWrite" src="https://img.shields.io/badge/-AppWrite-ff0000?logo=appwrite&&style=flat-square&logoColor=white"> <img alt="Hoppscotch" src="https://img.shields.io/badge/Hoppscotch-31C48D?logo=hoppscotch&&style=flat-square&logoColor=white">|<img alt="Ansible" src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white"> <img alt="Travis CI" src="https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=flat-square&logo=travis&logoColor=white"> <img alt="Portainer" src="https://img.shields.io/badge/Portainer-13BEF9.svg?style=flat-square&logo=portainer&logoColor=white"> <img alt="Wireguard" src="https://img.shields.io/badge/Wireguard-%2388171A.svg?style=flat-square&logo=wireguard&logoColor=white"> <img alt="NginX" src="https://img.shields.io/badge/NginX-%23009639?style=flat-square&logo=nginx&logoColor=white">|<img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&&style=flat-square&logoColor=white"><img alt="Portmaster" src="https://img.shields.io/badge/Portmaster-000000?logo=adguard&&style=flat-square&logoColor=white"> <img alt="Bitwarden" src="https://img.shields.io/badge/Bitwarden-175DDC?logo=bitwarden&&style=flat-square&logoColor=white"> <img alt="Nextcloud" src="https://img.shields.io/badge/NextCloud-0B94DE?style=flat-square&logo=nextcloud&logoColor=white"> <img alt="Tor" src="https://img.shields.io/badge/Tor-7D4698?style=flat-square&logo=Tor-Browser&logoColor=white"> <img alt="PiHole" src="https://img.shields.io/badge/pihole-%2396060C.svg?style=fflat-square&logo=pi-hole&logoColor=white">
-
-  ---
   ### :computer: **Operation Systems**
   
   | | | |
   |:-------------------------:|:-------------------------:|:-------------------------:|
   | **Ever-Day Usage** | **Pentesting** | **Hosting & Administration** |
-  |<img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&&style=flat-square&logoColor=white"> <img alt="Manjaro Linux" src="https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=Manjaro&logoColor=white"> <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">|<img alt="Kali Linux" src="https://img.shields.io/badge/Kali-268BEE?style=flat-square&logo=kalilinux&logoColor=white"> <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-000000?logo=arch-linux&style=flat-square&logoColor=white">|<img alt="Proxmox" src="https://img.shields.io/badge/Proxmox-orange?style=flat-square&logo=proxmox&logoColor=white"> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
+  |<img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&&style=flat-square&logoColor=white"> <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">|<img alt="Kali Linux" src="https://img.shields.io/badge/Kali-268BEE?style=flat-square&logo=kalilinux&logoColor=white"> <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-000000?logo=arch-linux&style=flat-square&logoColor=white">|<img alt="Proxmox" src="https://img.shields.io/badge/Proxmox-orange?style=flat-square&logo=proxmox&logoColor=white"> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
 
   </center>
 
